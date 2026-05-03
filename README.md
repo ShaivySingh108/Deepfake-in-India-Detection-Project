@@ -33,3 +33,7 @@ To detect manipulated media content and improve trust, security, and authenticit
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/username/repository-name
+## 👨‍💻 Team Members
+- Shaivy Singh —CSE
+- Mayank Singh — CSE.                            ## 📌 Conclusion
+This project helps in detecting deepfakes.

@@ -1,39 +1,44 @@
-# 🎓 Deepfake Detection Project
+<h1 align="center">🎭 Deepfake Detection System</h1>
 
-## 📌 About the Project
-This project is based on detecting **deepfake videos and images** using Deep Learning techniques.  
-It identifies whether a given media file is **real or fake** using AI models.
+<p align="center">
+  🚀 Final Year B.Tech Major Project <br>
+  🤖 AI-Based Fake Video & Image Detection
+</p>
 
----
-
-## 🎯 Objective
-To detect manipulated media content and improve trust, security, and authenticity in digital information.
-
----
-
-## 🛠️ Technologies Used
-- Python 🐍  
-- OpenCV  
-- TensorFlow / Keras  
-- NumPy  
-- Deep Learning  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Deepfake%20Detection-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Final%20Year-orange?style=for-the-badge">
+</p>
 
 ---
 
-## 📂 Features
-- Detects real vs fake images/videos  
-- AI-based prediction system  
-- High accuracy model  
-- Easy to use and efficient  
+## 📌 About Project
+Deepfake Detection System ek advanced AI project hai jo fake videos aur images ko detect karta hai using Machine Learning & Deep Learning.
 
 ---
 
-## ⚙️ How to Run the Project
+## ⚡ Features
 
-### 1. Clone the repository
+✔ Real-time Detection  
+✔ Image + Video Support  
+✔ AI Face Analysis  
+✔ High Accuracy  
+✔ Fast Processing  
+✔ Easy Interface  
+
+---
+
+## 🧠 Tech Used
+
+Python • OpenCV • TensorFlow • NumPy • Pandas  
+
+---
+
+## ▶️ Run Project
+
 ```bash
-git clone https://github.com/username/repository-name
-## 👨‍💻 Team Members
-- Shaivy Singh —CSE
-- Mayank Singh — CSE.                            ## 📌 Conclusion
-This project helps in detecting deepfakes.
+git clone https://github.com/your-username/deepfake-project.git
+cd deepfake-project
+pip install -r requirements.txt
+python main.py

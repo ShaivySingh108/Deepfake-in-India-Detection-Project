@@ -34,4 +34,4 @@ To detect fake (manipulated) media content and improve trust and security in dig
 3. Run the main file  
 
 ```bash
-python main.py
+Team Members.                                    Shaivy ((IT)                                     Mayan Singh( CSE)

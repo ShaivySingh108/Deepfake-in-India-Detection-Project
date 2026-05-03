@@ -2,12 +2,12 @@
 
 ## 📌 About the Project
 This project is based on detecting **deepfake videos and images** using Deep Learning techniques.  
-It helps in identifying whether a media file is real or artificially manipulated using AI models.
+It identifies whether a given media file is **real or fake** using AI models.
 
 ---
 
 ## 🎯 Objective
-To detect fake (manipulated) media content and improve trust and security in digital information.
+To detect manipulated media content and improve trust, security, and authenticity in digital information.
 
 ---
 
@@ -16,22 +16,20 @@ To detect fake (manipulated) media content and improve trust and security in dig
 - OpenCV  
 - TensorFlow / Keras  
 - NumPy  
-- Deep Learning
+- Deep Learning  
 
 ---
 
 ## 📂 Features
 - Detects real vs fake images/videos  
-- AI-based prediction model  
-- Fast and accurate results  
-- Easy to use structure  
+- AI-based prediction system  
+- High accuracy model  
+- Easy to use and efficient  
 
 ---
 
 ## ⚙️ How to Run the Project
-1. Clone this repository  
-2. Install required dependencies  
-3. Run the main file  
 
+### 1. Clone the repository
 ```bash
-Team Members.                                    Shaivy ((IT)                                     Mayan Singh( CSE)
+git clone https://github.com/username/repository-name

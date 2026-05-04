@@ -1,44 +1,76 @@
-<h1 align="center">🎭 Deepfake Detection System</h1>
 
-<p align="center">
-  🚀 Final Year B.Tech Major Project <br>
-  🤖 AI-Based Fake Video & Image Detection
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Deepfake%20Detection-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Level-Final%20Year-orange?style=for-the-badge">
-</p>
+<h1>🎭 Deepfake Detection System</h1>
 
----
+<h3>📌 Final Year B.Tech Major Project</h3>
+<p>🤖 AI-Based Fake Image & Video Detection</p>
 
-## 📌 About Project
-Deepfake Detection System ek advanced AI project hai jo fake videos aur images ko detect karta hai using Machine Learning & Deep Learning.
+<hr width="60%">
+
+</div>
 
 ---
 
-## ⚡ Features
-
-✔ Real-time Detection  
-✔ Image + Video Support  
-✔ AI Face Analysis  
-✔ High Accuracy  
-✔ Fast Processing  
-✔ Easy Interface  
+## 📌 Project Description
+This is a Final Year B.Tech Project based on AI-powered Deepfake Detection in India.  
+It detects fake images/videos and shows AI-generated percentage.
 
 ---
 
-## 🧠 Tech Used
+<div align="center">
 
-Python • OpenCV • TensorFlow • NumPy • Pandas  
+## 🚀 Features
+
+✔ Detect Deepfake Images  
+✔ AI-based Analysis  
+✔ User-friendly Interface  
+
+</div>
 
 ---
 
-## ▶️ Run Project
+## 🛠️ Technology Used
+- Java / Python / AI  
+- Machine Learning  
+- Image Processing  
 
-```bash
-git clone https://github.com/your-username/deepfake-project.git
-cd deepfake-project
-pip install -r requirements.txt
-python main.py
+---
+
+<div align="center">
+
+## 📥 Download Project
+
+<a href="https://drive.google.com/your-link">
+  <img src="https://img.shields.io/badge/Download-Project-blue?style=for-the-badge&logo=google-drive" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📄 Project Report
+
+<a href="https://github.com/ShaivySingh108/Deepfake-in-India-Detection-Project/blob/main/Final_Report.pdf">
+  <img src="https://img.shields.io/badge/View-Report-green?style=for-the-badge&logo=adobe-acrobat-reader" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 Team Members
+- Shaivy Singh (IT)  
+- Mayank Singh (CSE)  
+
+---
+
+<div align="center">
+
+## 📞 Contact
+
+📧 <b>Email:</b> shaivysingh@gmail.com  
+
+</div>
